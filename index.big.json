@@ -1,0 +1,1126 @@
+[
+	{
+		"name": "Mod Menu",
+		"author": [
+			"Prospector"
+		],
+		"category": "",
+		"description": "Adds a mod menu to view the list of mods you have installed.",
+		"readme": "",
+		"tags": [],
+		"thumbnail": "",
+		"icon": "repo/modmenu/icon.png",
+		"artifacts": [
+			{
+				"releaseDate": "07.710.2019",
+				"version": "1.6.3+build.101",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.6.3+build.101/modmenu-1.6.3+build.101.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "07.723.2019",
+				"version": "1.6.3+build.102",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.6.3+build.102/modmenu-1.6.3+build.102.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "07.724.2019",
+				"version": "1.6.4+build.103",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.6.4+build.103/modmenu-1.6.4+build.103.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "07.726.2019",
+				"version": "1.6.4+build.104",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.6.4+build.104/modmenu-1.6.4+build.104.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "07.727.2019",
+				"version": "1.6.4+build.105",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.6.4+build.105/modmenu-1.6.4+build.105.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "07.727.2019",
+				"version": "1.7.0+build.106",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.0+build.106/modmenu-1.7.0+build.106.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "07.728.2019",
+				"version": "1.7.0+build.107",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.0+build.107/modmenu-1.7.0+build.107.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "07.728.2019",
+				"version": "1.7.0+build.108",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.0+build.108/modmenu-1.7.0+build.108.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "07.729.2019",
+				"version": "1.7.1+build.109",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.1+build.109/modmenu-1.7.1+build.109.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "07.729.2019",
+				"version": "1.7.2+build.110",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.2+build.110/modmenu-1.7.2+build.110.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "07.729.2019",
+				"version": "1.7.3+build.111",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.3+build.111/modmenu-1.7.3+build.111.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "07.730.2019",
+				"version": "1.7.4+build.112",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.4+build.112/modmenu-1.7.4+build.112.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "07.730.2019",
+				"version": "1.7.4+build.113",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.4+build.113/modmenu-1.7.4+build.113.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "07.730.2019",
+				"version": "1.7.5+build.114",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.5+build.114/modmenu-1.7.5+build.114.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "08.81.2019",
+				"version": "1.7.6+build.115",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.6+build.115/modmenu-1.7.6+build.115.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "08.810.2019",
+				"version": "1.7.7+build.116",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.7+build.116/modmenu-1.7.7+build.116.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "08.817.2019",
+				"version": "1.7.8+build.117",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.8+build.117/modmenu-1.7.8+build.117.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "08.818.2019",
+				"version": "1.7.9+build.118",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.9+build.118/modmenu-1.7.9+build.118.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "08.823.2019",
+				"version": "1.7.9-unstable.19w34a+build.1",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.9-unstable.19w34a+build.1/modmenu-1.7.9-unstable.19w34a+build.1.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*"
+				}
+			},
+			{
+				"releaseDate": "08.829.2019",
+				"version": "1.7.10+build.119",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.10+build.119/modmenu-1.7.10+build.119.jar",
+				"compatibility": "\u003c1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003c1.15-"
+				}
+			},
+			{
+				"releaseDate": "08.829.2019",
+				"version": "1.7.10-unstable.19w35a+build.2",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.10-unstable.19w35a+build.2/modmenu-1.7.10-unstable.19w35a+build.2.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "09.98.2019",
+				"version": "1.7.11+build.120",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.11+build.120/modmenu-1.7.11+build.120.jar",
+				"compatibility": "\u003c1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003c1.15-"
+				}
+			},
+			{
+				"releaseDate": "09.98.2019",
+				"version": "1.7.11+build.121",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.11+build.121/modmenu-1.7.11+build.121.jar",
+				"compatibility": "\u003c1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003c1.15-"
+				}
+			},
+			{
+				"releaseDate": "09.98.2019",
+				"version": "1.7.11-unstable.19w36a+build.3",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.11-unstable.19w36a+build.3/modmenu-1.7.11-unstable.19w36a+build.3.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "09.911.2019",
+				"version": "1.7.12+build.122",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.12+build.122/modmenu-1.7.12+build.122.jar",
+				"compatibility": "\u003c1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003c1.15-"
+				}
+			},
+			{
+				"releaseDate": "09.917.2019",
+				"version": "1.7.13+build.123",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.13+build.123/modmenu-1.7.13+build.123.jar",
+				"compatibility": "\u003c1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003c1.15-"
+				}
+			},
+			{
+				"releaseDate": "09.926.2019",
+				"version": "1.7.13-unstable.19w38a+build.4",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.13-unstable.19w38a+build.4/modmenu-1.7.13-unstable.19w38a+build.4.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "09.926.2019",
+				"version": "1.7.13-unstable.19w38b+build.5",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.13-unstable.19w38b+build.5/modmenu-1.7.13-unstable.19w38b+build.5.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "10.1013.2019",
+				"version": "1.7.13+build.124",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.13+build.124/modmenu-1.7.13+build.124.jar",
+				"compatibility": "\u003c1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003c1.15-"
+				}
+			},
+			{
+				"releaseDate": "10.1013.2019",
+				"version": "1.7.13-unstable.19w38b+build.6",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.13-unstable.19w38b+build.6/modmenu-1.7.13-unstable.19w38b+build.6.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "10.1013.2019",
+				"version": "1.7.13-unstable.19w38b+build.7",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.13-unstable.19w38b+build.7/modmenu-1.7.13-unstable.19w38b+build.7.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "10.1013.2019",
+				"version": "1.7.13-unstable.19w41a+build.8",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.13-unstable.19w41a+build.8/modmenu-1.7.13-unstable.19w41a+build.8.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "10.1016.2019",
+				"version": "1.7.14+build.125",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.14+build.125/modmenu-1.7.14+build.125.jar",
+				"compatibility": "\u003c1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003c1.15-"
+				}
+			},
+			{
+				"releaseDate": "10.1016.2019",
+				"version": "1.7.14.1.14.4+build.126",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.14.1.14.4+build.126/modmenu-1.7.14.1.14.4+build.126.jar",
+				"compatibility": "\u003c1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003c1.15-"
+				}
+			},
+			{
+				"releaseDate": "10.1016.2019",
+				"version": "1.7.14-unstable.19w41a+build.9",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.14-unstable.19w41a+build.9/modmenu-1.7.14-unstable.19w41a+build.9.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "10.1016.2019",
+				"version": "1.7.14-unstable.19w42a+build.10",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.14-unstable.19w42a+build.10/modmenu-1.7.14-unstable.19w42a+build.10.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "10.1018.2019",
+				"version": "1.7.15.1.14.4+build.127",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.15.1.14.4+build.127/modmenu-1.7.15.1.14.4+build.127.jar",
+				"compatibility": "\u003c1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003c1.15-"
+				}
+			},
+			{
+				"releaseDate": "10.1018.2019",
+				"version": "1.7.15-unstable.19w42a+build.11",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.15-unstable.19w42a+build.11/modmenu-1.7.15-unstable.19w42a+build.11.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "11.1117.2019",
+				"version": "1.7.15-unstable.19w46b+build.12",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.15-unstable.19w46b+build.12/modmenu-1.7.15-unstable.19w46b+build.12.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "11.1121.2019",
+				"version": "1.7.15-unstable.1.15-pre1+build.13",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.15-unstable.1.15-pre1+build.13/modmenu-1.7.15-unstable.1.15-pre1+build.13.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "11.1128.2019",
+				"version": "1.8.0.1.15-pre3+build.14",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.8.0.1.15-pre3+build.14/modmenu-1.8.0.1.15-pre3+build.14.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "12.126.2019",
+				"version": "1.8.0.1.15-pre6+build.15",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.8.0.1.15-pre6+build.15/modmenu-1.8.0.1.15-pre6+build.15.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "12.126.2019",
+				"version": "1.8.0+build.16",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.8.0+build.16/modmenu-1.8.0+build.16.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "12.1214.2019",
+				"version": "1.8.1+build.17",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.8.1+build.17/modmenu-1.8.1+build.17.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "12.1221.2019",
+				"version": "1.8.2+build.18",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.8.2+build.18/modmenu-1.8.2+build.18.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "01.14.2020",
+				"version": "1.8.3+build.19",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.8.3+build.19/modmenu-1.8.3+build.19.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "01.14.2020",
+				"version": "1.7.16.1.14.4+build.128",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.7.16.1.14.4+build.128/modmenu-1.7.16.1.14.4+build.128.jar",
+				"compatibility": "\u003c1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003c1.15-"
+				}
+			},
+			{
+				"releaseDate": "01.19.2020",
+				"version": "1.8.4+build.20",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.8.4+build.20/modmenu-1.8.4+build.20.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "01.121.2020",
+				"version": "1.8.5+build.21",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.8.5+build.21/modmenu-1.8.5+build.21.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "01.121.2020",
+				"version": "1.8.5+build.22",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.8.5+build.22/modmenu-1.8.5+build.22.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "01.121.2020",
+				"version": "1.8.5+build.23",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.8.5+build.23/modmenu-1.8.5+build.23.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "02.28.2020",
+				"version": "1.8.6+build.24",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.8.6+build.24/modmenu-1.8.6+build.24.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "02.28.2020",
+				"version": "1.8.6+build.25",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.8.6+build.25/modmenu-1.8.6+build.25.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "02.28.2020",
+				"version": "1.9.0+build.26",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.9.0+build.26/modmenu-1.9.0+build.26.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "02.28.2020",
+				"version": "1.9.0+build.27",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.9.0+build.27/modmenu-1.9.0+build.27.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "02.28.2020",
+				"version": "1.10.0+build.28",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.10.0+build.28/modmenu-1.10.0+build.28.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "02.29.2020",
+				"version": "1.10.0+build.29",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.10.0+build.29/modmenu-1.10.0+build.29.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "02.29.2020",
+				"version": "1.10.1+build.30",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.10.1+build.30/modmenu-1.10.1+build.30.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "03.36.2020",
+				"version": "1.10.2+build.1",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.10.2+build.1/modmenu-1.10.2+build.1.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "03.313.2020",
+				"version": "1.10.2+build.31",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.10.2+build.31/modmenu-1.10.2+build.31.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "03.315.2020",
+				"version": "1.10.2+build.32",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.10.2+build.32/modmenu-1.10.2+build.32.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "03.319.2020",
+				"version": "1.11.0+build.2",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.11.0+build.2/modmenu-1.11.0+build.2.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "03.330.2020",
+				"version": "1.11.1+build.3",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.11.1+build.3/modmenu-1.11.1+build.3.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "04.413.2020",
+				"version": "1.10.2+build.33",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.10.2+build.33/modmenu-1.10.2+build.33.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "04.414.2020",
+				"version": "1.10.2+build.34",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.10.2+build.34/modmenu-1.10.2+build.34.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "04.414.2020",
+				"version": "1.10.2+build.35",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.10.2+build.35/modmenu-1.10.2+build.35.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "04.417.2020",
+				"version": "1.11.1+build.4",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.11.1+build.4/modmenu-1.11.1+build.4.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "04.423.2020",
+				"version": "1.11.2+build.6",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.11.2+build.6/modmenu-1.11.2+build.6.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "05.52.2020",
+				"version": "1.11.2+build.8",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.11.2+build.8/modmenu-1.11.2+build.8.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "05.53.2020",
+				"version": "1.11.4+build.9",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.11.4+build.9/modmenu-1.11.4+build.9.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "05.514.2020",
+				"version": "1.11.5+build.10",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.11.5+build.10/modmenu-1.11.5+build.10.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "05.521.2020",
+				"version": "1.11.6+build.11",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.11.6+build.11/modmenu-1.11.6+build.11.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "05.529.2020",
+				"version": "1.11.7+build.12",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.11.7+build.12/modmenu-1.11.7+build.12.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "05.530.2020",
+				"version": "1.10.3+build.36",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.10.3+build.36/modmenu-1.10.3+build.36.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "05.530.2020",
+				"version": "1.11.8+build.13",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.11.8+build.13/modmenu-1.11.8+build.13.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "06.69.2020",
+				"version": "1.12.0+build.14",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.12.0+build.14/modmenu-1.12.0+build.14.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "06.611.2020",
+				"version": "1.12.1+build.15",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.12.1+build.15/modmenu-1.12.1+build.15.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "06.623.2020",
+				"version": "1.12.2+build.16",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.12.2+build.16/modmenu-1.12.2+build.16.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "06.625.2020",
+				"version": "1.12.2+build.17",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.12.2+build.17/modmenu-1.12.2+build.17.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "07.711.2020",
+				"version": "1.12.2+build.18",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.12.2+build.18/modmenu-1.12.2+build.18.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "07.711.2020",
+				"version": "1.12.2+build.19",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.12.2+build.19/modmenu-1.12.2+build.19.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "07.711.2020",
+				"version": "1.13.0+build.20",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.13.0+build.20/modmenu-1.13.0+build.20.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "07.712.2020",
+				"version": "1.13.0+build.21",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.13.0+build.21/modmenu-1.13.0+build.21.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "07.712.2020",
+				"version": "1.13.0+build.22",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.13.0+build.22/modmenu-1.13.0+build.22.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "07.712.2020",
+				"version": "1.14.0+build.23",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.14.0+build.23/modmenu-1.14.0+build.23.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "07.712.2020",
+				"version": "1.14.0+build.24",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.14.0+build.24/modmenu-1.14.0+build.24.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "07.716.2020",
+				"version": "1.14.1+build.25",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.14.1+build.25/modmenu-1.14.1+build.25.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "07.716.2020",
+				"version": "1.14.1+build.26",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.14.1+build.26/modmenu-1.14.1+build.26.jar",
+				"compatibility": "\u003e=1.15-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.6.1",
+					"minecraft": "\u003e=1.15-"
+				}
+			},
+			{
+				"releaseDate": "07.716.2020",
+				"version": "1.14.2+build.27",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.14.2+build.27/modmenu-1.14.2+build.27.jar",
+				"compatibility": "\u003e=1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.9.0",
+					"minecraft": "\u003e=1.16-"
+				}
+			},
+			{
+				"releaseDate": "07.716.2020",
+				"version": "1.14.3+build.28",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.14.3+build.28/modmenu-1.14.3+build.28.jar",
+				"compatibility": "\u003e=1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.9.0",
+					"minecraft": "\u003e=1.16-"
+				}
+			},
+			{
+				"releaseDate": "07.716.2020",
+				"version": "1.14.4+build.29",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.14.4+build.29/modmenu-1.14.4+build.29.jar",
+				"compatibility": "\u003e=1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.9.0",
+					"minecraft": "\u003e=1.16-"
+				}
+			},
+			{
+				"releaseDate": "07.716.2020",
+				"version": "1.14.5+build.30",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.14.5+build.30/modmenu-1.14.5+build.30.jar",
+				"compatibility": "\u003e=1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.9.0",
+					"minecraft": "\u003e=1.16-"
+				}
+			},
+			{
+				"releaseDate": "08.85.2020",
+				"version": "1.14.6+build.31",
+				"url": "https://maven.fabricmc.net//io/github/prospector/modmenu//1.14.6+build.31/modmenu-1.14.6+build.31.jar",
+				"compatibility": "\u003e=1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric-resource-loader-v0": "*",
+					"fabricloader": "\u003e=0.9.0",
+					"minecraft": "\u003e=1.16-"
+				}
+			}
+		],
+		"contributors": [
+			"shedaniel",
+			"Draylar",
+			"Mordna",
+			"Madis0",
+			"Yanis48",
+			"Boundarybreaker",
+			"fewizz",
+			"XuyuEre",
+			"geniiii",
+			"thiagokenis",
+			"Juuxel",
+			"InsomniaKitten",
+			"modmuss50",
+			"Patbox",
+			"Lykrast",
+			"Pyrofab",
+			"UpcraftLP",
+			"swordglowsblue",
+			"hinataaki",
+			"LeonXu98",
+			"magneticflux",
+			"vanja-san",
+			"AlexIIL",
+			"masoncook16",
+			"el97",
+			"Hephaestus-Dev",
+			"zabi94",
+			"dexman545"
+		],
+		"version": "",
+		"id": "modmenu"
+	}
+]
