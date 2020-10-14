@@ -1,0 +1,6 @@
+{
+  "name": "Terraform",
+  "author": "Terraformers",
+  "maven_id": "com.terraformersmc:terraform",
+  "maven_repo": "https://maven.fabricmc.net/"
+}
