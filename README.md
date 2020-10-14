@@ -1,6 +1,6 @@
 # Styx-Index
 
-This repo contains all the information needed by Charon to browse, download and install mods.
+This repo contains all the information needed by Charon to browse, download and install mods.<br>
 ![Index](https://github.com/DeathsGun/Styx/workflows/Index/badge.svg)
 
 ## Repos
