@@ -5,8 +5,8 @@ This repo contains all the information needed by Charon to browse, download and 
 
 ## Repos
 There currently two repositories:
-* [testing](https://github.com/Styx-Index/tree/testing)
-* [unstable](https://github.com/Styx-Index/tree/unstable)
+* [testing](https://github.com/DeathsGun/Styx-Index/tree/testing)
+* [unstable](https://github.com/DeathsGun/Styx-Index/tree/unstable)
 
 ### Testing
 
