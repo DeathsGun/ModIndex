@@ -4,7 +4,7 @@ This repo contains all the information needed by Charon to browse, download and 
 ![Index](https://github.com/DeathsGun/Styx/workflows/Index/badge.svg)
 
 ## Repos
-There currently two repositories:
+There are currently two repositories:
 * [testing](https://github.com/DeathsGun/Styx-Index/tree/testing)
 * [unstable](https://github.com/DeathsGun/Styx-Index/tree/unstable)
 
