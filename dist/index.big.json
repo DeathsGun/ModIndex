@@ -3021,7 +3021,7 @@
 	{
 		"id": "terrestria",
 		"name": "Terrestria",
-		"version": "2.0.6+build.60",
+		"version": "2.1.2+build.24",
 		"authors": [
 			"coderbot16",
 			"NeusFear",
@@ -3029,7 +3029,7 @@
 		],
 		"category": "",
 		"description": "A vibrant biomes mod adding stunning and highly detailed biomes, inspired by aspects of ExtrabiomesXL and Redpower 2",
-		"readme": "https://raw.githubusercontent.com/TerraformersMC/Terrestria/1.16/README.md",
+		"readme": "https://raw.githubusercontent.com/TerraformersMC/Terrestria/1.16.3/README.md",
 		"tags": [],
 		"thumbnail": "",
 		"icon": "repo/terrestria/icon.png",
@@ -4448,6 +4448,54 @@
 					"fabric": "\u003e=0.4.1",
 					"fabricloader": "\u003e=0.7.2",
 					"terraform": "*"
+				}
+			},
+			{
+				"releaseDate": "18.10.2020",
+				"version": "2.1.0+build.22",
+				"url": "https:/maven.fabricmc.net/com/terraformersmc/terrestria/2.1.0+build.22/terrestria-2.1.0+build.22.jar",
+				"compatibility": "\u003e=1.16.2",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "\u003e=0.22.1",
+					"fabricloader": "\u003e=0.7.2",
+					"minecraft": "\u003e=1.16.2",
+					"terraform-biome-builder-api-v1": "*",
+					"terraform-legacy-v0": "*",
+					"terraform-overworld-biome-extensions-v1": "\u003e0.1.0",
+					"terraform-shapes-api-v1": "*"
+				}
+			},
+			{
+				"releaseDate": "18.10.2020",
+				"version": "2.1.0+build.23",
+				"url": "https:/maven.fabricmc.net/com/terraformersmc/terrestria/2.1.0+build.23/terrestria-2.1.0+build.23.jar",
+				"compatibility": "\u003e=1.16.2",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "\u003e=0.22.1",
+					"fabricloader": "\u003e=0.7.2",
+					"minecraft": "\u003e=1.16.2",
+					"terraform-biome-builder-api-v1": "*",
+					"terraform-legacy-v0": "*",
+					"terraform-overworld-biome-extensions-v1": "\u003e0.1.0",
+					"terraform-shapes-api-v1": "*"
+				}
+			},
+			{
+				"releaseDate": "18.10.2020",
+				"version": "2.1.2+build.24",
+				"url": "https:/maven.fabricmc.net/com/terraformersmc/terrestria/2.1.2+build.24/terrestria-2.1.2+build.24.jar",
+				"compatibility": "\u003e=1.16.2",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "\u003e=0.22.1",
+					"fabricloader": "\u003e=0.7.2",
+					"minecraft": "\u003e=1.16.2",
+					"terraform-biome-builder-api-v1": "*",
+					"terraform-legacy-v0": "*",
+					"terraform-overworld-biome-extensions-v1": "\u003e0.1.0",
+					"terraform-shapes-api-v1": "*"
 				}
 			}
 		],
