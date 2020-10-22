@@ -2019,7 +2019,7 @@
 	{
 		"id": "traverse",
 		"name": "Traverse",
-		"version": "3.0.0-beta+build.4",
+		"version": "3.0.0-beta+build.5",
 		"authors": [
 			"Prospector",
 			"NeusFear",
@@ -3005,6 +3005,17 @@
 				"releaseDate": "05.10.2020",
 				"version": "3.0.0-beta+build.4",
 				"url": "https:/maven.fabricmc.net/com/terraformersmc/traverse/3.0.0-beta+build.4/traverse-3.0.0-beta+build.4.jar",
+				"compatibility": "",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "\u003e=0.4.1",
+					"fabricloader": "\u003e=0.7.2"
+				}
+			},
+			{
+				"releaseDate": "21.10.2020",
+				"version": "3.0.0-beta+build.5",
+				"url": "https:/maven.fabricmc.net/com/terraformersmc/traverse/3.0.0-beta+build.5/traverse-3.0.0-beta+build.5.jar",
 				"compatibility": "",
 				"origin": "https://maven.fabricmc.net/",
 				"Dependencies": {
