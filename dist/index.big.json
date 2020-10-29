@@ -1,661 +1,5 @@
 [
 	{
-		"id": "campanion",
-		"name": "Campanion",
-		"version": "1.2.0+build.41",
-		"authors": [
-			"Wyn Price",
-			"NeusFear",
-			"Prospector",
-			"TerraformersMC"
-		],
-		"category": "",
-		"description": "A camping companion that adds items and utilities to improve your life away from home.",
-		"readme": "https://raw.githubusercontent.com/TerraformersMC/Campanion/1.16/README.md",
-		"tags": [],
-		"thumbnail": "",
-		"icon": "repo/campanion/icon.png",
-		"artifacts": [
-			{
-				"releaseDate": "09.04.2020",
-				"version": "1.1.0-beta+build.1",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.0-beta+build.1/campanion-1.1.0-beta+build.1.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "09.04.2020",
-				"version": "1.0.5+build.1",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.5+build.1/campanion-1.0.5+build.1.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "09.04.2020",
-				"version": "1.1.0+build.2",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.0+build.2/campanion-1.1.0+build.2.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "09.04.2020",
-				"version": "1.0.6+build.2",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.6+build.2/campanion-1.0.6+build.2.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "11.04.2020",
-				"version": "1.0.6+build.3",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.6+build.3/campanion-1.0.6+build.3.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "11.04.2020",
-				"version": "1.0.6+build.4",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.6+build.4/campanion-1.0.6+build.4.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "11.04.2020",
-				"version": "1.1.2+build.7",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.2+build.7/campanion-1.1.2+build.7.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "11.04.2020",
-				"version": "1.0.7+build.5",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.7+build.5/campanion-1.0.7+build.5.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "12.04.2020",
-				"version": "1.1.2+build.8",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.2+build.8/campanion-1.1.2+build.8.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "12.04.2020",
-				"version": "1.0.8+build.7",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.8+build.7/campanion-1.0.8+build.7.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "13.04.2020",
-				"version": "1.0.9+build.11",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.11/campanion-1.0.9+build.11.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "14.04.2020",
-				"version": "1.0.9+build.12",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.12/campanion-1.0.9+build.12.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "14.04.2020",
-				"version": "1.0.9+build.13",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.13/campanion-1.0.9+build.13.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "16.04.2020",
-				"version": "1.1.3+build.9",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.3+build.9/campanion-1.1.3+build.9.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "17.04.2020",
-				"version": "1.1.3+build.10",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.3+build.10/campanion-1.1.3+build.10.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "19.04.2020",
-				"version": "1.0.9+build.14",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.14/campanion-1.0.9+build.14.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "22.04.2020",
-				"version": "1.1.3+build.11",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.3+build.11/campanion-1.1.3+build.11.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "02.05.2020",
-				"version": "1.1.4+build.12",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.4+build.12/campanion-1.1.4+build.12.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "02.05.2020",
-				"version": "1.1.4+build.13",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.4+build.13/campanion-1.1.4+build.13.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "10.05.2020",
-				"version": "1.0.9+build.15",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.15/campanion-1.0.9+build.15.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "10.05.2020",
-				"version": "1.1.4+build.14",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.4+build.14/campanion-1.1.4+build.14.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "10.05.2020",
-				"version": "1.0.9+build.16",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.16/campanion-1.0.9+build.16.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "10.05.2020",
-				"version": "1.1.4+build.15",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.4+build.15/campanion-1.1.4+build.15.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "10.05.2020",
-				"version": "1.0.9+build.17",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.17/campanion-1.0.9+build.17.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "10.05.2020",
-				"version": "1.1.4+build.16",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.4+build.16/campanion-1.1.4+build.16.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "14.05.2020",
-				"version": "1.1.4+build.17",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.4+build.17/campanion-1.1.4+build.17.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "16.05.2020",
-				"version": "1.0.9+build.18",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.18/campanion-1.0.9+build.18.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "17.05.2020",
-				"version": "1.0.9+build.19",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.19/campanion-1.0.9+build.19.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "17.05.2020",
-				"version": "1.0.10+build.20",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.10+build.20/campanion-1.0.10+build.20.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "17.05.2020",
-				"version": "1.1.5+build.18",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.5+build.18/campanion-1.1.5+build.18.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "17.05.2020",
-				"version": "1.1.5+build.19",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.5+build.19/campanion-1.1.5+build.19.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "09.06.2020",
-				"version": "1.1.6+build.20",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.6+build.20/campanion-1.1.6+build.20.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "10.06.2020",
-				"version": "1.1.7+build.22",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.7+build.22/campanion-1.1.7+build.22.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "10.06.2020",
-				"version": "1.0.11+build.21",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.11+build.21/campanion-1.0.11+build.21.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "16.06.2020",
-				"version": "1.1.8+build.23",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.8+build.23/campanion-1.1.8+build.23.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "23.06.2020",
-				"version": "1.1.10+build.24",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.10+build.24/campanion-1.1.10+build.24.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "25.06.2020",
-				"version": "1.1.10+build.25",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.10+build.25/campanion-1.1.10+build.25.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "30.06.2020",
-				"version": "1.1.10+build.26",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.10+build.26/campanion-1.1.10+build.26.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "30.06.2020",
-				"version": "1.1.10+build.27",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.10+build.27/campanion-1.1.10+build.27.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "16.07.2020",
-				"version": "1.1.10+build.28",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.10+build.28/campanion-1.1.10+build.28.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "16.07.2020",
-				"version": "1.1.10+build.29",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.10+build.29/campanion-1.1.10+build.29.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "16.07.2020",
-				"version": "1.1.11+build.30",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.11+build.30/campanion-1.1.11+build.30.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "16.07.2020",
-				"version": "1.1.11+build.32",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.11+build.32/campanion-1.1.11+build.32.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "16.07.2020",
-				"version": "1.1.12+build.33",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.12+build.33/campanion-1.1.12+build.33.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "18.07.2020",
-				"version": "1.1.12+build.34",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.12+build.34/campanion-1.1.12+build.34.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "26.07.2020",
-				"version": "1.1.13+build.35",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.13+build.35/campanion-1.1.13+build.35.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "26.07.2020",
-				"version": "1.0.11+build.22",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.11+build.22/campanion-1.0.11+build.22.jar",
-				"compatibility": "1.15.x",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "1.15.x"
-				}
-			},
-			{
-				"releaseDate": "26.07.2020",
-				"version": "1.1.13+build.36",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.13+build.36/campanion-1.1.13+build.36.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "16.08.2020",
-				"version": "1.1.13+build.37",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.13+build.37/campanion-1.1.13+build.37.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "16.08.2020",
-				"version": "1.1.13+build.38",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.13+build.38/campanion-1.1.13+build.38.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "26.08.2020",
-				"version": "1.2.0+build.39",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.2.0+build.39/campanion-1.2.0+build.39.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "03.09.2020",
-				"version": "1.2.0+build.40",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.2.0+build.40/campanion-1.2.0+build.40.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			},
-			{
-				"releaseDate": "27.10.2020",
-				"version": "1.2.0+build.41",
-				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.2.0+build.41/campanion-1.2.0+build.41.jar",
-				"compatibility": "\u003e1.16-",
-				"origin": "https://maven.fabricmc.net/",
-				"Dependencies": {
-					"fabric": "*",
-					"fabricloader": "\u003e=0.7.4",
-					"minecraft": "\u003e1.16-"
-				}
-			}
-		],
-		"contributors": null
-	},
-	{
 		"id": "modmenu",
 		"name": "Mod Menu",
 		"version": "1.14.6+build.31",
@@ -1778,6 +1122,662 @@
 			"zabi94",
 			"dexman545"
 		]
+	},
+	{
+		"id": "campanion",
+		"name": "Campanion",
+		"version": "1.2.0+build.41",
+		"authors": [
+			"Wyn Price",
+			"NeusFear",
+			"Prospector",
+			"TerraformersMC"
+		],
+		"category": "",
+		"description": "A camping companion that adds items and utilities to improve your life away from home.",
+		"readme": "https://raw.githubusercontent.com/TerraformersMC/Campanion/1.16/README.md",
+		"tags": [],
+		"thumbnail": "",
+		"icon": "repo/campanion/icon.png",
+		"artifacts": [
+			{
+				"releaseDate": "09.04.2020",
+				"version": "1.1.0-beta+build.1",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.0-beta+build.1/campanion-1.1.0-beta+build.1.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "09.04.2020",
+				"version": "1.0.5+build.1",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.5+build.1/campanion-1.0.5+build.1.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "09.04.2020",
+				"version": "1.1.0+build.2",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.0+build.2/campanion-1.1.0+build.2.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "09.04.2020",
+				"version": "1.0.6+build.2",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.6+build.2/campanion-1.0.6+build.2.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "11.04.2020",
+				"version": "1.0.6+build.3",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.6+build.3/campanion-1.0.6+build.3.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "11.04.2020",
+				"version": "1.0.6+build.4",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.6+build.4/campanion-1.0.6+build.4.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "11.04.2020",
+				"version": "1.1.2+build.7",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.2+build.7/campanion-1.1.2+build.7.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "11.04.2020",
+				"version": "1.0.7+build.5",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.7+build.5/campanion-1.0.7+build.5.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "12.04.2020",
+				"version": "1.1.2+build.8",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.2+build.8/campanion-1.1.2+build.8.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "12.04.2020",
+				"version": "1.0.8+build.7",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.8+build.7/campanion-1.0.8+build.7.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "13.04.2020",
+				"version": "1.0.9+build.11",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.11/campanion-1.0.9+build.11.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "14.04.2020",
+				"version": "1.0.9+build.12",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.12/campanion-1.0.9+build.12.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "14.04.2020",
+				"version": "1.0.9+build.13",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.13/campanion-1.0.9+build.13.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "16.04.2020",
+				"version": "1.1.3+build.9",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.3+build.9/campanion-1.1.3+build.9.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "17.04.2020",
+				"version": "1.1.3+build.10",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.3+build.10/campanion-1.1.3+build.10.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "19.04.2020",
+				"version": "1.0.9+build.14",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.14/campanion-1.0.9+build.14.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "22.04.2020",
+				"version": "1.1.3+build.11",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.3+build.11/campanion-1.1.3+build.11.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "02.05.2020",
+				"version": "1.1.4+build.12",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.4+build.12/campanion-1.1.4+build.12.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "02.05.2020",
+				"version": "1.1.4+build.13",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.4+build.13/campanion-1.1.4+build.13.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "10.05.2020",
+				"version": "1.0.9+build.15",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.15/campanion-1.0.9+build.15.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "10.05.2020",
+				"version": "1.1.4+build.14",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.4+build.14/campanion-1.1.4+build.14.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "10.05.2020",
+				"version": "1.0.9+build.16",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.16/campanion-1.0.9+build.16.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "10.05.2020",
+				"version": "1.1.4+build.15",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.4+build.15/campanion-1.1.4+build.15.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "10.05.2020",
+				"version": "1.0.9+build.17",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.17/campanion-1.0.9+build.17.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "10.05.2020",
+				"version": "1.1.4+build.16",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.4+build.16/campanion-1.1.4+build.16.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "14.05.2020",
+				"version": "1.1.4+build.17",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.4+build.17/campanion-1.1.4+build.17.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "16.05.2020",
+				"version": "1.0.9+build.18",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.18/campanion-1.0.9+build.18.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "17.05.2020",
+				"version": "1.0.9+build.19",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.9+build.19/campanion-1.0.9+build.19.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "17.05.2020",
+				"version": "1.0.10+build.20",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.10+build.20/campanion-1.0.10+build.20.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "17.05.2020",
+				"version": "1.1.5+build.18",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.5+build.18/campanion-1.1.5+build.18.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "17.05.2020",
+				"version": "1.1.5+build.19",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.5+build.19/campanion-1.1.5+build.19.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "09.06.2020",
+				"version": "1.1.6+build.20",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.6+build.20/campanion-1.1.6+build.20.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "10.06.2020",
+				"version": "1.1.7+build.22",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.7+build.22/campanion-1.1.7+build.22.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "10.06.2020",
+				"version": "1.0.11+build.21",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.11+build.21/campanion-1.0.11+build.21.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "16.06.2020",
+				"version": "1.1.8+build.23",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.8+build.23/campanion-1.1.8+build.23.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "23.06.2020",
+				"version": "1.1.10+build.24",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.10+build.24/campanion-1.1.10+build.24.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "25.06.2020",
+				"version": "1.1.10+build.25",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.10+build.25/campanion-1.1.10+build.25.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "30.06.2020",
+				"version": "1.1.10+build.26",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.10+build.26/campanion-1.1.10+build.26.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "30.06.2020",
+				"version": "1.1.10+build.27",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.10+build.27/campanion-1.1.10+build.27.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "16.07.2020",
+				"version": "1.1.10+build.28",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.10+build.28/campanion-1.1.10+build.28.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "16.07.2020",
+				"version": "1.1.10+build.29",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.10+build.29/campanion-1.1.10+build.29.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "16.07.2020",
+				"version": "1.1.11+build.30",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.11+build.30/campanion-1.1.11+build.30.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "16.07.2020",
+				"version": "1.1.11+build.32",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.11+build.32/campanion-1.1.11+build.32.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "16.07.2020",
+				"version": "1.1.12+build.33",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.12+build.33/campanion-1.1.12+build.33.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "18.07.2020",
+				"version": "1.1.12+build.34",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.12+build.34/campanion-1.1.12+build.34.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "26.07.2020",
+				"version": "1.1.13+build.35",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.13+build.35/campanion-1.1.13+build.35.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "26.07.2020",
+				"version": "1.0.11+build.22",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.0.11+build.22/campanion-1.0.11+build.22.jar",
+				"compatibility": "1.15.x",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "1.15.x"
+				}
+			},
+			{
+				"releaseDate": "26.07.2020",
+				"version": "1.1.13+build.36",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.13+build.36/campanion-1.1.13+build.36.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "16.08.2020",
+				"version": "1.1.13+build.37",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.13+build.37/campanion-1.1.13+build.37.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "16.08.2020",
+				"version": "1.1.13+build.38",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.1.13+build.38/campanion-1.1.13+build.38.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "26.08.2020",
+				"version": "1.2.0+build.39",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.2.0+build.39/campanion-1.2.0+build.39.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "03.09.2020",
+				"version": "1.2.0+build.40",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.2.0+build.40/campanion-1.2.0+build.40.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			},
+			{
+				"releaseDate": "27.10.2020",
+				"version": "1.2.0+build.41",
+				"url": "https://maven.fabricmc.net/com/terraformersmc/campanion/1.2.0+build.41/campanion-1.2.0+build.41.jar",
+				"compatibility": "\u003e1.16-",
+				"origin": "https://maven.fabricmc.net/",
+				"Dependencies": {
+					"fabric": "*",
+					"fabricloader": "\u003e=0.7.4",
+					"minecraft": "\u003e1.16-"
+				}
+			}
+		],
+		"contributors": null
 	},
 	{
 		"id": "traverse",
