@@ -1,0 +1,10 @@
+{
+  "name": "Phosphor",
+  "author": "JellySquid",
+  "strategy": {
+    "type": "github",
+    "data": {
+      "repo": "jellysquid3/phosphor-fabric"
+    }
+  }
+}

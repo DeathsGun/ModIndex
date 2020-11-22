@@ -1,6 +1,11 @@
 {
   "name": "Terrestria",
   "author": "Terraformers",
-  "maven_id": "com.terraformersmc:terrestria",
-  "maven_repo": "https://maven.fabricmc.net/"
+  "strategy": {
+    "type": "maven"
+    "data": {
+        "maven_id": "com.terraformersmc:terrestria",
+        "maven_repo": "https://maven.fabricmc.net/"
+    }
+  }
 }

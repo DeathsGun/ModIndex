@@ -1,0 +1,10 @@
+{
+  "name": "Sodium",
+  "author": "JellySquid",
+  "strategy": {
+    "type": "github",
+    "data": {
+      "repo": "jellysquid3/sodium-fabric"
+    }
+  }
+}
